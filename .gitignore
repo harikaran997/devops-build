@@ -1,0 +1,18 @@
+# Python-related ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+
+# Ignore Docker-related files
+Dockerfile
+docker-compose.yml
+build.sh
+deploy.sh
+
+# Ignore logs
+*.log
