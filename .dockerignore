@@ -7,10 +7,6 @@ docker-compose.yml
 build.sh
 deploy.sh
 
-# Ignore Python-related files (if applicable)
-__pycache__/
-*.pyc
-*.pyo
 
 # Ignore environment variables or configuration
 .env
